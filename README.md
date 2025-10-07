@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+🌱 I’m currently studying Computer Engineering. <br />
+🔭 I’m consitently working on developing my skills and gaining expericence in my field. <br />
+🤔 I’m looking for help with anything and everything, there will always be something new to learn.
 <!--
 **DanFoy-GH/DanFoy-GH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
